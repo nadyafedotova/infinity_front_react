@@ -14,3 +14,5 @@ npm-debug.log*
 #icon generates file
 src/assets/iconify-icons/bundle-icons-css.ts
 src/assets/iconify-icons/generated-icons.css
+
+.idea
