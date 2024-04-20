@@ -1,0 +1,16 @@
+#dependencies
+/node_modules
+
+#production
+/build
+
+#debug
+npm-debug.log*
+
+#local env files
+.env
+.env*local
+
+#icon generates file
+src/assets/iconify-icons/bundle-icons-css.ts
+src/assets/iconify-icons/generated-icons.css
